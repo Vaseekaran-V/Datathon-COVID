@@ -1,1 +1,1 @@
-# Datathon-COVID
+# Datathon-COVID - Stat_Collective
